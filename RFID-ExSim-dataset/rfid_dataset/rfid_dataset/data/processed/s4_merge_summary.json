@@ -1,0 +1,224 @@
+{
+  "total_files": 72,
+  "records": {
+    "session_S4_TAG01_run1_ESP32_A.jsonl": 505,
+    "session_S4_TAG01_run1_ESP32_B.jsonl": 495,
+    "session_S4_TAG01_run2_ESP32_A.jsonl": 506,
+    "session_S4_TAG01_run2_ESP32_B.jsonl": 494,
+    "session_S4_TAG01_run3_ESP32_A.jsonl": 506,
+    "session_S4_TAG01_run3_ESP32_B.jsonl": 494,
+    "session_S4_TAG02_run1_ESP32_A.jsonl": 502,
+    "session_S4_TAG02_run1_ESP32_B.jsonl": 499,
+    "session_S4_TAG02_run2_ESP32_A.jsonl": 506,
+    "session_S4_TAG02_run2_ESP32_B.jsonl": 495,
+    "session_S4_TAG02_run3_ESP32_A.jsonl": 506,
+    "session_S4_TAG02_run3_ESP32_B.jsonl": 495,
+    "session_S4_TAG03_run1_ESP32_A.jsonl": 758,
+    "session_S4_TAG03_run1_ESP32_B.jsonl": 743,
+    "session_S4_TAG03_run2_ESP32_A.jsonl": 757,
+    "session_S4_TAG03_run2_ESP32_B.jsonl": 743,
+    "session_S4_TAG03_run3_ESP32_A.jsonl": 758,
+    "session_S4_TAG03_run3_ESP32_B.jsonl": 742,
+    "session_S4_TAG04_run1_ESP32_A.jsonl": 605,
+    "session_S4_TAG04_run1_ESP32_B.jsonl": 596,
+    "session_S4_TAG04_run2_ESP32_A.jsonl": 607,
+    "session_S4_TAG04_run2_ESP32_B.jsonl": 594,
+    "session_S4_TAG04_run3_ESP32_A.jsonl": 604,
+    "session_S4_TAG04_run3_ESP32_B.jsonl": 596,
+    "session_S4_TAG05_run1_ESP32_A.jsonl": 508,
+    "session_S4_TAG05_run1_ESP32_B.jsonl": 493,
+    "session_S4_TAG05_run2_ESP32_A.jsonl": 503,
+    "session_S4_TAG05_run2_ESP32_B.jsonl": 498,
+    "session_S4_TAG05_run3_ESP32_A.jsonl": 506,
+    "session_S4_TAG05_run3_ESP32_B.jsonl": 494,
+    "session_S4_TAG06_run1_ESP32_A.jsonl": 507,
+    "session_S4_TAG06_run1_ESP32_B.jsonl": 494,
+    "session_S4_TAG06_run2_ESP32_A.jsonl": 503,
+    "session_S4_TAG06_run2_ESP32_B.jsonl": 497,
+    "session_S4_TAG06_run3_ESP32_A.jsonl": 509,
+    "session_S4_TAG06_run3_ESP32_B.jsonl": 491,
+    "session_S4_TAG07_run1_ESP32_A.jsonl": 755,
+    "session_S4_TAG07_run1_ESP32_B.jsonl": 745,
+    "session_S4_TAG07_run2_ESP32_A.jsonl": 759,
+    "session_S4_TAG07_run2_ESP32_B.jsonl": 741,
+    "session_S4_TAG07_run3_ESP32_A.jsonl": 758,
+    "session_S4_TAG07_run3_ESP32_B.jsonl": 743,
+    "session_S4_TAG08_run1_ESP32_A.jsonl": 506,
+    "session_S4_TAG08_run1_ESP32_B.jsonl": 494,
+    "session_S4_TAG08_run2_ESP32_A.jsonl": 506,
+    "session_S4_TAG08_run2_ESP32_B.jsonl": 494,
+    "session_S4_TAG08_run3_ESP32_A.jsonl": 503,
+    "session_S4_TAG08_run3_ESP32_B.jsonl": 497,
+    "session_S4_TAG09_run1_ESP32_A.jsonl": 502,
+    "session_S4_TAG09_run1_ESP32_B.jsonl": 498,
+    "session_S4_TAG09_run2_ESP32_A.jsonl": 507,
+    "session_S4_TAG09_run2_ESP32_B.jsonl": 494,
+    "session_S4_TAG09_run3_ESP32_A.jsonl": 506,
+    "session_S4_TAG09_run3_ESP32_B.jsonl": 495,
+    "session_S4_TAG10_run1_ESP32_A.jsonl": 605,
+    "session_S4_TAG10_run1_ESP32_B.jsonl": 596,
+    "session_S4_TAG10_run2_ESP32_A.jsonl": 607,
+    "session_S4_TAG10_run2_ESP32_B.jsonl": 594,
+    "session_S4_TAG10_run3_ESP32_A.jsonl": 606,
+    "session_S4_TAG10_run3_ESP32_B.jsonl": 595,
+    "session_S4_TAG11_run1_ESP32_A.jsonl": 505,
+    "session_S4_TAG11_run1_ESP32_B.jsonl": 496,
+    "session_S4_TAG11_run2_ESP32_A.jsonl": 506,
+    "session_S4_TAG11_run2_ESP32_B.jsonl": 494,
+    "session_S4_TAG11_run3_ESP32_A.jsonl": 505,
+    "session_S4_TAG11_run3_ESP32_B.jsonl": 495,
+    "session_S4_TAG12_run1_ESP32_A.jsonl": 757,
+    "session_S4_TAG12_run1_ESP32_B.jsonl": 744,
+    "session_S4_TAG12_run2_ESP32_A.jsonl": 757,
+    "session_S4_TAG12_run2_ESP32_B.jsonl": 743,
+    "session_S4_TAG12_run3_ESP32_A.jsonl": 759,
+    "session_S4_TAG12_run3_ESP32_B.jsonl": 743
+  },
+  "sessions": {
+    "S4_TAG01_run1": {
+      "A": 505,
+      "B": 495
+    },
+    "S4_TAG01_run2": {
+      "A": 506,
+      "B": 494
+    },
+    "S4_TAG01_run3": {
+      "A": 506,
+      "B": 494
+    },
+    "S4_TAG02_run1": {
+      "A": 502,
+      "B": 499
+    },
+    "S4_TAG02_run2": {
+      "A": 506,
+      "B": 495
+    },
+    "S4_TAG02_run3": {
+      "A": 506,
+      "B": 495
+    },
+    "S4_TAG03_run1": {
+      "A": 758,
+      "B": 743
+    },
+    "S4_TAG03_run2": {
+      "A": 757,
+      "B": 743
+    },
+    "S4_TAG03_run3": {
+      "A": 758,
+      "B": 742
+    },
+    "S4_TAG04_run1": {
+      "A": 605,
+      "B": 596
+    },
+    "S4_TAG04_run2": {
+      "A": 607,
+      "B": 594
+    },
+    "S4_TAG04_run3": {
+      "A": 604,
+      "B": 596
+    },
+    "S4_TAG05_run1": {
+      "A": 508,
+      "B": 493
+    },
+    "S4_TAG05_run2": {
+      "A": 503,
+      "B": 498
+    },
+    "S4_TAG05_run3": {
+      "A": 506,
+      "B": 494
+    },
+    "S4_TAG06_run1": {
+      "A": 507,
+      "B": 494
+    },
+    "S4_TAG06_run2": {
+      "A": 503,
+      "B": 497
+    },
+    "S4_TAG06_run3": {
+      "A": 509,
+      "B": 491
+    },
+    "S4_TAG07_run1": {
+      "A": 755,
+      "B": 745
+    },
+    "S4_TAG07_run2": {
+      "A": 759,
+      "B": 741
+    },
+    "S4_TAG07_run3": {
+      "A": 758,
+      "B": 743
+    },
+    "S4_TAG08_run1": {
+      "A": 506,
+      "B": 494
+    },
+    "S4_TAG08_run2": {
+      "A": 506,
+      "B": 494
+    },
+    "S4_TAG08_run3": {
+      "A": 503,
+      "B": 497
+    },
+    "S4_TAG09_run1": {
+      "A": 502,
+      "B": 498
+    },
+    "S4_TAG09_run2": {
+      "A": 507,
+      "B": 494
+    },
+    "S4_TAG09_run3": {
+      "A": 506,
+      "B": 495
+    },
+    "S4_TAG10_run1": {
+      "A": 605,
+      "B": 596
+    },
+    "S4_TAG10_run2": {
+      "A": 607,
+      "B": 594
+    },
+    "S4_TAG10_run3": {
+      "A": 606,
+      "B": 595
+    },
+    "S4_TAG11_run1": {
+      "A": 505,
+      "B": 496
+    },
+    "S4_TAG11_run2": {
+      "A": 506,
+      "B": 494
+    },
+    "S4_TAG11_run3": {
+      "A": 505,
+      "B": 495
+    },
+    "S4_TAG12_run1": {
+      "A": 757,
+      "B": 744
+    },
+    "S4_TAG12_run2": {
+      "A": 757,
+      "B": 743
+    },
+    "S4_TAG12_run3": {
+      "A": 759,
+      "B": 743
+    }
+  },
+  "total_records": 41719
+}

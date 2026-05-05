@@ -1,0 +1,37 @@
+pair_id,tag_id,uid_original,uid_clone,distance_cm,orientation_deg,runs,expected_relation,notes
+P1,TAG01,83C11D13,83C11D13,1,0,3,identical,Clone of TAG01 at short distance (0°)
+P2,TAG01,83C11D13,83C11D13,2,45,3,identical,Clone of TAG01 at 45°
+P3,TAG01,83C11D13,83C11D13,3,90,3,identical,Clone of TAG01 at 90°
+P4,TAG02,C7F644,C7F644,1,0,3,identical,Clone of TAG02 at short distance (0°)
+P5,TAG02,C7F644,C7F644,2,45,3,identical,Clone of TAG02 at 45°
+P6,TAG02,C7F644,C7F644,3,90,3,identical,Clone of TAG02 at 90°
+P7,TAG03,3E2744,3E2744,1,0,3,identical,Clone of TAG03 at short distance (0°)
+P8,TAG03,3E2744,3E2744,2,45,3,identical,Clone of TAG03 at 45°
+P9,TAG03,3E2744,3E2744,3,90,3,identical,Clone of TAG03 at 90°
+P10,TAG04,3D9F24,3D9F24,1,0,3,identical,Clone of TAG04 at short distance (0°)
+P11,TAG04,3D9F24,3D9F24,2,45,3,identical,Clone of TAG04 at 45°
+P12,TAG04,3D9F24,3D9F24,3,90,3,identical,Clone of TAG04 at 90°
+P13,TAG05,5E4A44,5E4A44,1,0,3,identical,Clone of TAG05 at short distance (0°)
+P14,TAG05,5E4A44,5E4A44,2,45,3,identical,Clone of TAG05 at 45°
+P15,TAG05,5E4A44,5E4A44,3,90,3,identical,Clone of TAG05 at 90°
+P16,TAG06,8AA34,8AA34,1,0,3,identical,Clone of TAG06 at short distance (0°)
+P17,TAG06,8AA34,8AA34,2,45,3,identical,Clone of TAG06 at 45°
+P18,TAG06,8AA34,8AA34,3,90,3,identical,Clone of TAG06 at 90°
+P19,TAG07,BD064,BD064,1,0,3,identical,Clone of TAG07 at short distance (0°)
+P20,TAG07,BD064,BD064,2,45,3,identical,Clone of TAG07 at 45°
+P21,TAG07,BD064,BD064,3,90,3,identical,Clone of TAG07 at 90°
+P22,TAG08,ACE424,ACE424,1,0,3,identical,Clone of TAG08 at short distance (0°)
+P23,TAG08,ACE424,ACE424,2,45,3,identical,Clone of TAG08 at 45°
+P24,TAG08,ACE424,ACE424,3,90,3,identical,Clone of TAG08 at 90°
+P25,TAG09,36A454,36A454,1,0,3,identical,Clone of TAG09 at short distance (0°)
+P26,TAG09,36A454,36A454,2,45,3,identical,Clone of TAG09 at 45°
+P27,TAG09,36A454,36A454,3,90,3,identical,Clone of TAG09 at 90°
+P28,TAG10,946F44,946F44,1,0,3,identical,Clone of TAG10 at short distance (0°)
+P29,TAG10,946F44,946F44,2,45,3,identical,Clone of TAG10 at 45°
+P30,TAG10,946F44,946F44,3,90,3,identical,Clone of TAG10 at 90°
+P31,TAG11,53BE611,53BE611,1,0,3,identical,Clone of TAG11 at short distance (0°)
+P32,TAG11,53BE611,53BE611,2,45,3,identical,Clone of TAG11 at 45°
+P33,TAG11,53BE611,53BE611,3,90,3,identical,Clone of TAG11 at 90°
+P34,TAG12,2E3F44,2E3F44,1,0,3,identical,Clone of TAG12 at short distance (0°)
+P35,TAG12,2E3F44,2E3F44,2,45,3,identical,Clone of TAG12 at 45°
+P36,TAG12,2E3F44,2E3F44,3,90,3,identical,Clone of TAG12 at 90°

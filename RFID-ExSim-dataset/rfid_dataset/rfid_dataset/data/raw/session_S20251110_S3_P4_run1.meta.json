@@ -1,0 +1,13 @@
+{
+  "session_id": "S20251110_S3_P4_run1",
+  "pair_id": "P4",
+  "tag_id": "TAG02",
+  "uid_original": "C7F644",
+  "uid_clone": "C7F644",
+  "distance_cm": 1,
+  "orientation_deg": 0,
+  "run": 1,
+  "scenario": "S3",
+  "simulated": true,
+  "generated_utc": "2025-11-11T10:38:05.634817Z"
+}
