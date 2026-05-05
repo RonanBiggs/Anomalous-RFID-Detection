@@ -1,9 +1,0 @@
-{
-  "session_id": "S4_TAG05_run2",
-  "tag_local_id": "TAG05",
-  "replay_type": "physical_clone",
-  "replay_source": "TAG05",
-  "reads_target": 1000,
-  "n_A": 503,
-  "n_B": 498
-}

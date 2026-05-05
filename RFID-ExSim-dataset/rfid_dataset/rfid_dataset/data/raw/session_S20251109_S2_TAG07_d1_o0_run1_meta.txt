@@ -1,3 +1,0 @@
-simulated:true
-repetitions:150
-seed:3992271435

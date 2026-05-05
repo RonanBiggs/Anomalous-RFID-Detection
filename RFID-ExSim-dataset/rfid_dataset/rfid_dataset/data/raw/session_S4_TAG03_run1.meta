@@ -1,9 +1,0 @@
-{
-  "session_id": "S4_TAG03_run1",
-  "tag_local_id": "TAG03",
-  "replay_type": "software_injection",
-  "replay_source": "stored_capture",
-  "reads_target": 1500,
-  "n_A": 758,
-  "n_B": 743
-}

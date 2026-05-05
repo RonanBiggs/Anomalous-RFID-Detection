@@ -1,9 +1,0 @@
-{
-  "session_id": "S4_TAG09_run1",
-  "tag_local_id": "TAG09",
-  "replay_type": "mobile_emulation",
-  "replay_source": "TAG09",
-  "reads_target": 1000,
-  "n_A": 502,
-  "n_B": 498
-}
