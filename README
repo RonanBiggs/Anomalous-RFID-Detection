@@ -1,0 +1,8 @@
+bmp_to_graph...
+and augmented_...
+are data scripts
+
+90-10 train/test for real dataset. test 100% of fake data.
+CNN - really basic. 1d CNN with ReLU and adam optimizer
+CNN_modified - same thing but with 5 fold cv
+CNN_Replica - essentially identical to the paper. except its a 1d cnn and uses csv format. but it implements the data augmenting to add more data, it tests the same optimizers and activation functions. the pngs have results for the first 2 not this one cuz its taking rly long to run and i have movie tickets

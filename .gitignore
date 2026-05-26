@@ -1,0 +1,6 @@
+data/*
+data/
+data
+data.csv
+sub_lof_results/*.csv
+*.ipynb_checkpoints*

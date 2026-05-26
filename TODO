@@ -1,0 +1,12 @@
+Leave one distance out when training to see if model still can perform well on it.
+
+Check whether Fake High / Fake Low are trivially separable by amplitude scale - train a simple model on things like mean, max, min, etc. see if it performs as well, if it does the cnn is retarded.
+
+next CNN
+- tets different splits of train/test
+- try LeakyReLU
+- try other optimizers: 
+		AdamW
+		SGD(momentum=0.9)
+- permutate data like the paper
+
