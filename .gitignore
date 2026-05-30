@@ -4,3 +4,6 @@ data
 data.csv
 sub_lof_results/*.csv
 *.ipynb_checkpoints*
+CNN_Initial.ipynb
+CNN_modified_cv.ipynb
+Kefra_Augmented_Data Kefra_Processed_Data
