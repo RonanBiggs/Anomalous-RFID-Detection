@@ -19,7 +19,7 @@ Requirements:
 Examples:
     python bmp_graph_to_csv.py unlockFSH_433_427_40_001.bmp --out data.csv
     python bmp_graph_to_csv.py "*.bmp" --out data.csv
-    python bmp_graph_to_csv.py "*.bmp" --out data.csv --points 512
+    python bmp_graph_to_csv.py "*.bmp" --out data.csv --points 1800
 """
 
 from __future__ import annotations

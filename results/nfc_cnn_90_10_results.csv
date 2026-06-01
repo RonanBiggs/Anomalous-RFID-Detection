@@ -1,0 +1,10 @@
+accuracy,macro_precision,macro_recall,macro_f1,optimizer,activation
+1.0,1.0,1.0,1.0,sgd,relu
+1.0,1.0,1.0,1.0,adam,relu
+1.0,1.0,1.0,1.0,adam,leakyrelu
+1.0,1.0,1.0,1.0,adam,elu
+1.0,1.0,1.0,1.0,rmsprop,relu
+1.0,1.0,1.0,1.0,rmsprop,leakyrelu
+1.0,1.0,1.0,1.0,rmsprop,elu
+0.9996986590326955,0.9997741644083108,0.9990954319312527,0.9994341453891827,sgd,leakyrelu
+0.9870423384059063,0.9697546118199026,0.9848538509302487,0.9769350472624397,sgd,elu
