@@ -1,0 +1,29 @@
+{
+  "paper": "Abu Al-Haija & Alsulami (2022), Electronics 11(20), 3376",
+  "dataset_root": "data/Kefra",
+  "split_mode": "paper_described",
+  "image_size": 224,
+  "batch_size": 4,
+  "learning_rate": 0.001,
+  "epochs": 100,
+  "optimizers": [
+    "SGD",
+    "Adam",
+    "RMSProp"
+  ],
+  "best_optimizer": "RMSProp",
+  "best_metrics": {
+    "optimizer": "RMSProp",
+    "NCC": 142,
+    "NIC": 62,
+    "ACC": 0.696078431372549,
+    "PRC": 0.6993140290171797,
+    "RCL": 0.696078431372549,
+    "F1S": 0.6957930590076405,
+    "PRC_macro": 0.7017887856897144,
+    "RCL_macro": 0.6994949494949495,
+    "F1S_macro": 0.6986958789775691,
+    "INF_total_sec": 2.109539811999639,
+    "INF_per_sample_sec": 0.010340881431370779
+  }
+}
